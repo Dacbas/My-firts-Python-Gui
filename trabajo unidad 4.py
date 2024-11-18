@@ -1,3 +1,4 @@
+#Aqui solucioné un error que me daba, al ejecutar cualquier libreria de python, en este caso Tkinter
 import os
 os.environ['TCL_LIBRARY']='C:/Users/David/AppData/Local/Programs/Python/Python313/tcl/tcl8.6'
 os.environ['TK_LIBRARY']='C:/Users/David/AppData/Local/Programs/Python/Python313/tcl/tcl8.6'
